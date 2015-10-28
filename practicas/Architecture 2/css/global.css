@@ -1,0 +1,302 @@
+body{
+	background: #4C4848;
+	margin: 0 auto;
+}
+.wrapper{
+	background: #FFFFFF;
+	width: 1047px;
+	height: 1548px;
+	margin: 0 auto
+}
+header{
+	background: #FFFFFF;
+	width: 1047px;
+	height: 103px;
+}
+.clock{
+	float: right;
+	padding: 33px 36px 0 0;
+}
+h1{
+	font:65px serif black;
+	color: #079AF7; 
+	float: left;
+	padding: 0 0 0 35px;
+}
+header span{
+	font:68px serif black; 
+	color: black;
+}
+header h5{
+	font: 13px serif black;
+	width: 700px;
+	color: #898989;
+	float: left;
+	padding: 0 0 0 38px;
+}
+nav{
+	 
+	background: #FFFFFF;
+	width: 980px;
+	height: 61px;
+	margin: 0 auto;
+	padding: 0 0 0 2px;
+	overflow:hidden;
+}
+nav li{
+	background: #FFFFFF;
+	float:left;
+	width: 136px;
+	height: 61px;
+	border-left: 1px solid #A6A4A4;
+	text-align: center;
+	font:21px serif black;
+	padding: 13px 0 0 0;
+	
+}
+ul a{
+	text-decoration: none;
+	color: black;
+}
+a:hover {
+	text-decoration: underline;
+}
+.banner{
+	background: url(../images/banner.jpg);
+	width: 980px;
+	height: 319px;
+	margin: 0 auto;
+
+}
+.bar{
+	background: #FFFFFF;
+	width: 1047px;
+	height: 66px;
+}
+.bar img{
+	width: 118px;
+	height: 32px;
+	float: right;
+	padding: 9px 27px 0 0;
+}
+.main{
+	background: #FFFFFF;
+	width: 1047px;
+	height: 680px;
+}
+.welcome{
+	background: #FFFFFF;
+	width: 352px;
+	height: 380px;;
+	float: left;
+}
+.welcome h2{
+	background: #FFFFFF;
+	width: 309px;
+	height:52px;
+	font: 35px serif;
+	color: #4196BF;
+	padding: 0 0 0 30px;
+	border-bottom: 1px dotted black
+}
+.welcome img{
+	padding: 23px 0 0 32px;
+
+}
+.welcome  p{
+	font: 11px arial #5C6052;
+	width: 302px;
+	color: #5C6052;
+	padding: 14px 0 0 31px;
+}
+.negrita{
+	font: bold 11px arial;
+}
+p a{
+	color:#79A4B7;
+}
+.solutions {
+	background: #FFFFFF;
+	width: 343px;
+	height: 380px;
+	float: left;
+	float: left;
+}
+.solutions h2{
+	background: #FFFFFF;
+	width: 309px;
+	height:52px;
+	font: 32px serif;
+	color: black;
+	border-bottom: 1px dotted black;
+	padding: 0 0 0 11px;
+
+}
+.solutions img{
+	padding: 25px 0 0 13px;
+}
+
+.solutions  p{
+	font: 11px arial #5C6052;
+	width: 302px;
+	color: #5C6052;
+	padding: 15px 0 0 12px;
+}
+
+.projects{
+	background: #FFFFFF;
+	width: 352px;
+	height: 380px;
+	float: right;
+}
+.projects h2{
+	background: #FFFFFF;
+	width: 309px;
+	height:52px;
+	font: 32px serif;
+	color: black;
+	border-bottom: 1px dotted black;
+	padding: 0 0 0 19px;
+}
+
+.services{
+	background: #FFFFFF;
+	width: 685px;
+	height: 291px;
+	float: left;
+
+}
+.services .first{
+	float: left;
+	padding: 30px 0 0 35px;
+
+}
+.services .second{
+	float: right;
+	padding: 30px 170px 0 0;
+}
+.services h2{
+	background: #FFFFFF;
+	width: 309px;
+	height:52px;
+	font: 32px serif;
+	color: black;
+	padding: 0 0 0 20px;
+}
+.services p{
+	font: 11px arial #5C6052;
+	width: 645px;
+	color: #5C6052;
+	padding: 30px 0 0 35px;
+}
+.testimonials{
+	background: #FFFFFF;
+	width: 362px;
+	height: 291px;
+	float: left;
+}
+.testimonials h2{
+	background: #FFFFFF;
+	width: 309px;
+	height:52px;
+	font: 32px serif;
+	color: black;
+	padding: 0 0 0 5px;
+}
+.testimonials p{
+	font: 11px arial #5C6052;
+	width: 309px;
+	color: #5C6052;
+	padding: 15px 0 0 15px;
+}
+footer{
+	background: #222222;
+	width: 988px;
+	height: 287px;
+	clear: both;
+	margin: 0 auto;
+}
+.credists{
+	background: black;
+	width: 988px;
+	height: 86px;
+}
+.about{
+	background: #222222;
+	width: 658px;
+	height: 200px;
+}
+
+.one{
+	background: transparent;
+	width: 167px;
+	height: 199px;
+	float: left;
+
+}
+.one h4{
+	font: 12px arial black;
+	color: #EFFFFF;
+	padding: 33px 0 0 18px;
+	float: left;
+}
+.one ul{
+	font: 11px arial black;
+
+	color: #EFFFFF;
+	padding: 20px 0 0 27px;
+	float: left;
+}
+.about li{
+	margin: 0 0 13px 0;
+}
+.two{
+	background: transparent;
+	width: 203px;
+	height: 199px;
+	float: left;
+
+}
+.two h4{
+	font: 12px arial black;
+	color: #EFFFFF;
+	padding: 33px 0 0 34px;
+	float: left;
+}
+.two ul{
+	font: 11px arial black;
+	color: #EFFFFF;
+	padding: 20px 0 0 37px;
+	float: left;
+}
+.three{
+	background: transparent;
+	width: 203px;
+	height: 199px;
+	float: left;
+}
+.three h4{
+	font: 12px arial black;
+	color: #EFFFFF;
+	padding: 33px 0 0 25px;
+	float: left;
+}
+.three ul{
+	font: 11px arial black;
+	width: 125px;
+	color: #EFFFFF;
+	padding: 20px 0 0 37px;
+	float: left
+}
+.credists h4{
+	font:10px arial black;
+	color: #FFFFFF;
+	float: left;
+	padding: 23px 0 0 16px;
+}
+span a{
+	color: #FFFFFF;
+}
+.credists img{
+	float: right;
+	}

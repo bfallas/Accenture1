@@ -1,0 +1,106 @@
+body{
+	background: #F0F0F0;
+	margin: 0 ;
+}
+.wrapper{
+	background: #F0F0F0;
+	width: 729px;
+	height: 784px;
+	margin: 0 auto;
+}
+.main{
+	background: #FFFFFF;
+	width: 729px;
+	height: 585px;
+	border: 1px solid #dbdbdb;
+	margin: 10px 0 0 0;
+}
+header{
+
+	height:73px;
+	width: 729px;
+	background:url("../images/banner_top.jpg");
+}
+nav{
+	background: #FFFFFF;
+	width: 701px;
+	height: 53px;
+	margin-top: 0 auto;
+	padding: 0 0 0 28px;
+	border-bottom: 18px solid black;
+	overflow: hidden;
+}
+li a{
+	font: 12px arial;
+	color: #EBFFE5;
+	text-align: center;
+	text-decoration: none;
+
+
+}
+nav li{
+	background: url(../images/navBar_buttonBg.jpg);
+	float: left;
+	margin: 23px 0 0 0;
+	width:135px;
+	height: 30px;
+	text-align: center;
+	padding-top: 10px;
+
+}
+.banner{
+	background: url(../images/banner.jpg);
+	width: 728px;
+	height: 304px;
+	margin: 0 auto;
+}
+
+.form{
+	background: #FFFFFF;
+	width: 193px;
+	height: 181px;
+	float: right;
+	border: 1px solid #dbdbdb;
+}
+.live{
+	background: #F8f8f8;
+	width: 519px;
+	height: 94px;
+	border: 1px solid #dbdbdb;
+}
+.tiket{
+	background: #E5E5E5;
+	height: 86px;
+	width: 519px;
+	border: 1px solid #dbdbdb;
+	display: block;
+}
+h1{
+	font: 30px arial;
+	color: #4B7E0F;
+	float: right;
+	padding: 22px 155px 0 0;
+
+}
+h3{
+	font: 12px arial;
+	color: #88372B;
+}
+li a:hover{
+	text-decoration: underline;
+}
+input{
+	padding: 0 7px 0 0;
+}
+.live p{
+	width: 354px;
+	height: 44px;
+	float: right;
+	font: 11px arial;
+	padding: 0px 5px 0 0;
+	text-align:	right;
+}
+.live h3{
+	float: right;
+	padding: 6px 6px 0 0;
+}

@@ -1,0 +1,48 @@
+body{
+	background: #F00;
+	margin: 0;
+}
+.wrapper{
+	background: #ccc;
+	width: 728px;
+	height: 100%;
+	margin: 0 auto;
+}
+.nav{
+	background: #132E8C;
+	width: 364px;
+	height: 200px;
+	float: right;
+
+}
+.search{
+	background: #8C1374;
+	width: 364px;
+	height: 200px;
+	float: left;
+}
+.sports{
+	background: #2A8C13;
+	width: 728px;
+	height: 100px;
+	float: left;
+}
+.news{
+	background: #136E8C;
+	width: 728px;
+	height: 100px;
+	float: left;
+}
+.contac{
+	background: #8C1370;
+	width: 364px;
+	height: 200px;
+	float: left;
+	clear: both;
+}
+.reports{
+	background: #170412;
+	width: 364px;
+	height: 200px;
+	float: right;
+}

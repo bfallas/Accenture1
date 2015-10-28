@@ -1,0 +1,74 @@
+html,body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td { 
+	margin:0;
+	padding:0;
+}
+fieldset,img { 
+	border:0;
+}
+ol,ul {
+	list-style:none;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-size:100%;
+	font-weight:normal;
+}
+/* General Demo Style */
+body{
+	font-family: Constantia, Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+	background: #fbf8f4 url(../images/wood_pattern.jpg) repeat top left;
+	font-weight: 400;
+	font-size: 15px;
+	color: #936a46;
+	overflow-y: scroll;
+	overflow-x: hidden;
+}
+.ie7 body{
+	overflow:hidden;
+}
+a{
+	color: #333;
+	text-decoration: none;
+}
+.container{
+	position: relative;
+	text-align: center;
+}
+.clr{
+	clear: both;
+}
+.container > header{
+	padding: 20px 30px 10px 30px;
+	margin: 0px 20px 10px 20px;
+	position: relative;
+	display: block;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+    text-align: center;
+}
+.container > header h1{
+	font-family: 'Alfa Slab One', 'Arial Narrow', Arial, sans-serif;
+	font-size: 35px;
+	line-height: 35px;
+	position: relative;
+	font-weight: 400;
+	color: #333;
+	text-shadow: 1px 1px 1px rgba(255,255,255,0.8);
+    padding: 0px 0px 5px 0px;
+}
+.container > header h1 span{
+	color: #008dc1;
+	text-shadow: 0px 1px 1px rgba(255,255,255,0.8);
+}
+.container > header h2, p.info{
+	font-family: 'Boogaloo', 'Arial Narrow', Arial, sans-serif;
+	font-size: 22px;
+	font-style: italic;
+	color: #fff;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.3);
+}
+.container > header h2 a{
+	color: #936a46;
+	text-shadow: 0px 1px 1px rgba(255,255,255,0.8);
+}
+.container > header h2 a:hover{
+	color: #614429;
+}

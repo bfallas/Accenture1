@@ -1,0 +1,41 @@
+body{
+	background: #F00;
+	margin: 0;
+}
+
+.wrapper{
+	background: #ccc;
+	width: 728px;
+	height: 600px;
+	margin: 0 auto;
+}
+
+header{
+	background: #777;
+	width: 728px;
+	height: 200px;
+}
+.news{
+	background: #37a;
+	width: 364px;
+	height: 100px;
+	float: left;
+}
+.sports{
+	background: #31d;
+	width: 364px;
+	height: 100px;
+	float: left;
+}
+.reports{
+	background: #194;
+	width: 364px;
+	height: 200px;
+	float: right;
+}
+footer{
+	background: #eee;
+	width: 728;
+	height: 200;
+	clear: both;
+}

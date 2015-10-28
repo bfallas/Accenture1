@@ -1,0 +1,53 @@
+body{
+	margin: 0 auto;
+	background: #3b4042;
+}
+
+.wrapper{
+	background: white;
+	margin: 0 auto;
+	width: 800px;
+	height: 1024px;
+	overflow: hidden;
+}
+.galery {
+	background: transparent;
+	width: 2400px;
+	height: 600px;
+	margin:  auto;
+	float: left;
+	position: relative;
+
+}
+li img{
+	width: 800px;
+	height: 600px;
+	border-radius: 100px;
+}
+button {
+	float: left;
+}
+.itenlist{
+	position: absolute;
+	left: 0;
+	transition:left ease-in 0.0s;
+}
+.previousBtn{
+	position: absolute;
+	left: 5px;
+	top: 250px;
+	width: 50px;
+	height: 50px;
+	background: red;
+}
+.nextBtn{
+	position: absolute;
+	right: 1605px;
+	top: 250px;
+	width: 50px;
+	height: 50px;
+	background: red;
+}
+li {
+	float: left;
+}

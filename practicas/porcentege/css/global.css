@@ -1,0 +1,23 @@
+body{
+	background: red;
+	margin: 0 auto;
+}
+.wrapper{
+	background: blue;
+	width: 50%;
+	height: 600px;
+	margin: 0 auto;
+
+}
+.news{
+	background: cyan;
+	width: 50%;
+	height: 50%;
+	float: left;
+}
+.files{
+	background: yellow;
+	width: 50%;
+	height: 50%;
+	float: right;
+}
